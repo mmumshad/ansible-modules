@@ -42,7 +42,7 @@ options:
     required: true
   accept_all_eulas:
     description:
-      - Accepts all end‐user licenses agreements (EULAs) without being prompted. Binary option.
+      - Accepts all end‐user licenses agreements without being prompted. Binary option.
     required: false
     default: true
   data_store:
